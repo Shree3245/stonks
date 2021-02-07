@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/stonks/static/css/main.62d25267.chunk.css",
+    "main.js": "/stonks/static/js/main.5eb8e8a8.chunk.js",
+    "main.js.map": "/stonks/static/js/main.5eb8e8a8.chunk.js.map",
+    "runtime-main.js": "/stonks/static/js/runtime-main.3310843e.js",
+    "runtime-main.js.map": "/stonks/static/js/runtime-main.3310843e.js.map",
+    "static/js/2.a6761339.chunk.js": "/stonks/static/js/2.a6761339.chunk.js",
+    "static/js/2.a6761339.chunk.js.map": "/stonks/static/js/2.a6761339.chunk.js.map",
+    "index.html": "/stonks/index.html",
+    "precache-manifest.7ca14ff3fba472e6cd5d7182984ccf10.js": "/stonks/precache-manifest.7ca14ff3fba472e6cd5d7182984ccf10.js",
+    "service-worker.js": "/stonks/service-worker.js",
+    "static/css/main.62d25267.chunk.css.map": "/stonks/static/css/main.62d25267.chunk.css.map",
+    "static/js/2.a6761339.chunk.js.LICENSE.txt": "/stonks/static/js/2.a6761339.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/stonks/static/media/NeutrifPro-Regular.52b0d8c3.otf",
+    "static/media/chart-line-down.d5e43792.svg": "/stonks/static/media/chart-line-down.d5e43792.svg",
+    "static/media/chart-line.3228d264.svg": "/stonks/static/media/chart-line.3228d264.svg",
+    "static/media/chart-pie-alt.6db61f5f.svg": "/stonks/static/media/chart-pie-alt.6db61f5f.svg",
+    "static/media/chevron-down.b79f7d72.svg": "/stonks/static/media/chevron-down.b79f7d72.svg",
+    "static/media/coins.c2d439af.svg": "/stonks/static/media/coins.c2d439af.svg",
+    "static/media/flask.33b46075.svg": "/stonks/static/media/flask.33b46075.svg",
+    "static/media/globe.1d7ac05c.svg": "/stonks/static/media/globe.1d7ac05c.svg",
+    "static/media/piggy-bank.acd3dbbf.svg": "/stonks/static/media/piggy-bank.acd3dbbf.svg",
+    "static/media/star.a7861168.svg": "/stonks/static/media/star.a7861168.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3310843e.js",
+    "static/js/2.a6761339.chunk.js",
+    "static/css/main.62d25267.chunk.css",
+    "static/js/main.5eb8e8a8.chunk.js"
+  ]
+}
